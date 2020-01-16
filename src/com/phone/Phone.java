@@ -23,7 +23,7 @@ public class Phone {
 		private int battery;
 		
 		public PhoneBuilder display() {
-			System.out.println("Test!");
+			System.out.println("Test1!");
 			return this;
 		}
 		
